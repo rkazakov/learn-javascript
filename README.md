@@ -1,2 +1,3 @@
-# learn-javascript
-Learn JavaScript
+# Learn JavaScript
+
+[Currying](./currying.md)
