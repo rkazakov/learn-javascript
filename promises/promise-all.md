@@ -1,5 +1,7 @@
 # Promise.all #
 
+Receive data from Promise.all in case one of the promises fail.
+
 ```
 const makeRequest = (url) => {
 	return new Promise((resolve, reject) => {
